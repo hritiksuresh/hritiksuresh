@@ -4,7 +4,7 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [Ankush Kumar](https://www.linkedin.com/in/ankush-kumar-06b22b191/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+### Hi there, I'm [Hritik Saroj](https://www.linkedin.com/in/hritik-saroj-609681276/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
@@ -17,14 +17,14 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
+[![LeetCode](https://leetcode.com/Hritik09555/)
+[![GeeksforGeeks](https://auth.geeksforgeeks.org/user/hritik9wlaj/practice)
 [![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/hritik94500_hk)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@hritik07)
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://profile.codingninjas.com/b643df09-bd10-42cf-a2d4-70398da97e8b?_ga=2.227334036.889395966.1683868764-134780370.1683117813)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
 
@@ -62,7 +62,7 @@ technologies to meet future requirements.</br>
  - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **New Angels Sr Sec School, Pratapgarh**------------------**< 2020-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
  - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
